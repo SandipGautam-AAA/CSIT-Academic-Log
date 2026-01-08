@@ -1,0 +1,23 @@
+
+# ===== Temporary / misc =====
+*.log
+*.tmp
+*.txt
+
+
+# --- VS Code & IDE Folders ---
+.vscode/
+.vs/
+
+# --- Executables & Binary Files ---
+*.exe
+*.o
+*.obj
+*.out
+*.app
+*.lib
+*.a
+
+# --- OS Generated Files ---
+.DS_Store
+Thumbs.db
