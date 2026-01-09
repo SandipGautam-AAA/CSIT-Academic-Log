@@ -10,7 +10,8 @@
 .vs/
 
 # --- Executables & Binary Files ---
-*.exe
+
+
 *.o
 *.obj
 *.out

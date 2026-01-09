@@ -10,7 +10,7 @@ This repository serves as a digital archive for my lab reports, source code, and
 
 | Subject | Content & Focus | Status |
 | :--- | :--- | :--- |
-| **Data Structures & Algorithms** | C++ implementations of Stacks, Queues, Linked Lists, and Trees. | 🚧 In Progress |
+| **Data Structures & Algorithms** | C implementations of Stacks, Queues, Linked Lists, and Trees. | 🚧 In Progress |
 | **Computer Graphics** | Fundamental algorithms (DDA, BLA) and 2D/3D Transformations. | 🚧 In Progress |
 | **Numerical Method** | Numerical solutions for non-linear equations and integration in C. | 🚧 In Progress |
 | **Computer Architecture** | Assembly Language (8086) and hardware-level logic simulations. | 🚧 In Progress |
