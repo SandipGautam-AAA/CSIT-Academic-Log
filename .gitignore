@@ -2,8 +2,8 @@
 # ===== Temporary / misc =====
 *.log
 *.tmp
-*.txt
-
+# *.txt
+*.exe
 
 # --- VS Code & IDE Folders ---
 .vscode/

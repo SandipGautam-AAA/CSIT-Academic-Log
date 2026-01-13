@@ -1,0 +1,2 @@
+ g++ -std=c++17 lineDDA.cpp -o lineDDA.exe -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32 -mwindows
+ 
