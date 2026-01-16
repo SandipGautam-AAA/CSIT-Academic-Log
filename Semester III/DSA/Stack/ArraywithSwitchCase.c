@@ -1,3 +1,6 @@
+/*
+Write a menu-driven C program to implement a stack using an array and switch cases.
+*/
 #include <stdio.h>
 #define MAX 50
 
